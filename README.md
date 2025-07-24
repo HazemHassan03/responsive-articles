@@ -1,2 +1,5 @@
 # Responsive Articles
-A responsive page contains several articles using HTML and CSS
+
+It's a responsive page that contains several articles using HTML and CSS.
+
+I made this project to apply what I learn about responsive web design using CSS Flex and Media Queries.
